@@ -53,7 +53,7 @@ function HeartrateTracker() {
       const postData = e => { 
         e.preventDefault();        
           axios
-          .post("http://localhost:5000/predict", data, config)
+          .post("/predict", data, config)
           .then(function (response) {
             const res = response.data;
             setResults(res)

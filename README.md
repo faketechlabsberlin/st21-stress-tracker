@@ -51,16 +51,16 @@ Hopefully one day, we will get a fully smart watch and mobile app that is synchr
 
 **Alex,** Data Science Track
 
-**Madina, **Data Science Track
+**Madina,** Data Science Track
 
 **Marcel,** Data Science Track
 
-**Muhammet, **Data Science Track
+**Muhammet,** Data Science Track
 
 **Alba,** UX Track
 
-**Priyanka, **UX Track
+**Priyanka,** UX Track
 
 **Ikzath,** Web Development Track
 
-**Suwana, **Web Development Track
+**Suwana,** Web Development Track

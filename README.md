@@ -4,7 +4,7 @@ _[https://www.notion.so/Ideation-Session-Part-II-14703a952e914db49148e33993b5973
 **Questionnaire:_ \
 [https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform)_**
 
-The key results from the questionnaire were as follows: \
+The key results from the questionnaire were as follows: 
 
 
 

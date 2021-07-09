@@ -1,7 +1,7 @@
 Ideation Session: \
 _[https://www.notion.so/Ideation-Session-Part-II-14703a952e914db49148e33993b59739](https://www.notion.so/Ideation-Session-Part-II-14703a952e914db49148e33993b59739)_
 
-Questionnaire:_ \
+Questionnaire: \
 [https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform)_
 
 The key results from the questionnaire were as follows: 

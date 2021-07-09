@@ -1,3 +1,36 @@
+<!-- Output copied to clipboard! -->
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.652 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Fri Jul 09 2021 06:08:29 GMT-0700 (PDT)
+* Source doc: Stress Tracker Web App documentation
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
 
 # **Stress Tracker Web App — one click away to reduce stress instantly**
 
@@ -24,7 +57,10 @@ From the ideation session it came clear for the Data Science track that there we
 
 The initial idea for the app was to also include a user evaluation of how stressed he or she is. Due to insufficient data which was binary and that we at this point were unable to track stress live with the user’s smartwatch we decided to skip this option. Instead of that we decided to focus merely on users that want to reduce their stress levels.
 
-Based on the findings from the team’s ideation session, the UX track developed a [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform) to get a better understanding of the potential target group and their needs. The key results from the questionnaire were as follows: 
+Based on the findings from the team’s ideation session, the UX track developed a [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform) to get a better understanding of the potential target group and their needs. The key results from the questionnaire were as follows: \
+
+
+
 
 * 85.3% says that stress has a big impact on their daily lives
 * Two key groups: Group A wants to analyze & better understand why they’re stressed; Group B wants to reduce their stress levels

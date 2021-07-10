@@ -15,7 +15,7 @@ From the ideation session it came clear for the Data Science track that there we
 
 The initial idea for the app was to also include a user evaluation of how stressed he or she is. Due to insufficient data which was binary and that we at this point were unable to track stress live with the user’s smartwatch we decided to skip this option. Instead of that we decided to focus merely on users that want to reduce their stress levels.
 
-Based on the findings from the team’s ideation session, the UX track developed a [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform) to get a better understanding of the potential target group and their needs. The key results from the questionnaire were as follows: \
+Based on the findings from the team’s ideation session, the UX track developed a [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform) to get a better understanding of the potential target group and their needs. The key results from the questionnaire were as follows: 
 
 
 

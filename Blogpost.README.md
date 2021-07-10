@@ -1,4 +1,4 @@
-# **Stress Tracker Web App — one click away to reduce stress instantly**
+# **Stress Tracker Web App — How Low Can You Go? (With Your Stress Level)**
 
 _This project was carried out as part of TechLabs in Berlin (summer term 2021)_
 

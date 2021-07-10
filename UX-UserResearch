@@ -1,0 +1,118 @@
+UX
+
+
+# User Research
+
+Identifying the target group. Key questions: 1. Who is Stress Tracker for; and 2. Why would you use it?
+
+
+## Ideation Session
+
+To fully understand the key functionality and benefits for the target group we had several meetings with our team. In addition to that we also did an ideation session.
+
+[https://www.notion.so/Ideation-Session-Part-II-14703a952e914db49148e33993b59739](https://www.notion.so/Ideation-Session-Part-II-14703a952e914db49148e33993b59739) 
+
+During the ideation session, the key focus points were:
+
+
+
+1. User profile
+2. Tracking system
+3. Stress reducing techniques
+
+**User Profile**
+
+To start with the user profile information, we realized that we did not have enough data on gender at the moment. That’s why we decided to skip this part for the user profile. Instead of gender, we decided to focus on height, weight and date of birth instead since these physical aspects can have a direct impact on a person’s stress level. Furthermore, we also wanted to add the fitness level in terms of how often the user does exercises in addition to the work situation such as a desk job. 
+
+**Tracking System**
+
+To monitor the user’s stress levels in the most optimal way, we decided to focus on tracking the person’s heart rate and heart rate variability. In addition to that, we also decided to add a function for the user to rate his or her own stress levels based on how stressed the user feels. Lastly this feature turned out not to be feasible as the data DS had collected was binary (stressed and not stressed).
+
+**Stress reducing techniques \
+**Based on the ideation session, we came up with a top seven of relaxation and stress reducing activities that users could do that would be added to the app:
+
+
+
+1. Fast activities: go for a walk, do some sport, eat chocolate
+2. Meditation exercises
+3. Relaxation techniques: breathing, visualization exercises 
+4. Relaxing audio podcasts and music
+5. Mindfulness, positive messages, emotional healing
+6. Calendar related advice: you have a meeting and take some time afterwards for a walk
+7. Bedtime stories to sleep
+
+ \
+
+
+
+## User Research - Questionnaire
+
+Based on our findings from the ideation session, we developed a [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform) to get a better understanding of the potential target group and their needs.
+
+[https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeJs9v_09XG_vQDJhvS4x-IMReQplxiEyfhgnlYeFJXxKJluA/viewform)
+
+In total we received 129 submissions. The key findings of the questionnaire were as follows:
+
+
+
+* 85.3% says that stress has a big impact on their daily lives
+* Two key groups: Group A wants to analyze & better understand why they’re stressed; Group B wants to reduce their stress levels
+
+We found out most of the interviewed individuals were already aware of the dangers and influence of stress in their health and life. So against one of our original ideas, of teaching about stress and its implications, we decided this wasnt were we shoud focused. Half of the individuals were more interested in understanding the origin of their stress and the other half wanted to reduce their stress levels. We decided to focus on the latter, as it would be what makes our project unique, combining tracking and managing stress.
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+
+## Personas
+
+Based on the data and findings from the questionnaire we further mapped out our potential target group by developing two personas: Amy and Hans.
+
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.png "image_tooltip")
+
+
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.png "image_tooltip")
+
+
+To further understand our potential target group based on the above two personas, Amy and Hans, we developed a user scenario to see how a user would use the app. 
+
+Scenarios:
+
+**Amy scenario: Problem**
+
+Amy's situation: Since the pandemic started, Amy has been feeling more stress than usual because of her deadlines and her workload and because the company had to implement remote working from home, which has led to some technical issues.
+
+Additionally, she used to go out with her friends to unwind, which has not been an option lately. She feels overwhelmed and would like to be more present and in control of her life and emotions, and in general reduce her stress levels and feel better. She didn't know how to do it, so looking for some apps, she came across the Stress Tracker App and decided to give it a try.
+
+**Hans Scenario: Interaction**
+
+A colleague recommended the Stress Tracker App to Hans some time ago. After an unproductive meeting where his boss complained about not reaching sales goals for the month, Hans looked at his phone and found Stress Tracker sent him a message. He was told that his heart rate was higher than normal and asked if he could try one of the techniques to calm down. As there was nothing urgent to do in the next 15 minutes, he clicked the suggestion options and saw a list of different ideas, like going for a walk or listening to some relaxing music. He decided to try some guided meditation. He sat in his office, put on the headphones, closed his eyes, and followed the instructions. After the meditation, his pulse was again calmer and he was feeling more relaxed and ready to face the day.
+
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.png "image_tooltip")
+

@@ -1,9 +1,3 @@
-# st21-stress-tracker
-Main agenda:
-
-Develop a minimum viable product to track and reduce stress.
-
-
 # **Stress Tracker Web App — one click away to reduce stress instantly**
 
 _This project was carried out as part of TechLabs in Berlin (summer term 2021)_

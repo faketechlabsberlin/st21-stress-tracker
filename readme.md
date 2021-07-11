@@ -33,8 +33,6 @@ Flask was used on the backend and a couple of files were in action namely a pick
 ## Deployed version: 
 https://limitless-wave-49962.herokuapp.com/
 
-https://limitless-wave-49962.herokuapp.com/stress
- 
 # Requirements
 - Python
 - Flask

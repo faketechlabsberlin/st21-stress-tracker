@@ -1,6 +1,6 @@
 # **Stress Tracker Web App — How Low Can You Go? (With Your Stress Level)**
 
-![](images/techlabs_logo.png)
+![](Images/techlabs_logo.png)
 
 _This project was carried out as part of TechLabs in Berlin (summer term 2021)_
 

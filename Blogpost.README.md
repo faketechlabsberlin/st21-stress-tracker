@@ -30,6 +30,8 @@ Based on the results, the UX track further went into creating the [user personas
 
 After we defined our potential target group we further defined the key functionalities of the app. The core functionalities were as follows: 1. Stress monitor that is connected with the user’s smartwatch and shows the level of stress based on the user’s heart rate & heart rate variability; 2. Instant stress reducing exercises that are tailored to the user based on the amount of time the user has (A. 2-3 minutes; B. 20 minutes; C. 1 hour). 
 
+![](Images/main_functions.png)
+
 Now that we had clear insights into the above, we started with the design of the app in terms of look & feel and user interface. Our main aim here was to develop an app that was easy to use and keep the overall design simple and minimalistic in order to keep the main focus on the app’s stress reducing functionality.
 
 Based on this, the UX team created the first sketches of the web app. Together with the Web Development team, the sketches were further optimised to meet the app’s functionalities. 
@@ -38,6 +40,8 @@ After several meetings with Web Development, the UX team designed the [prototype
 
 After a profound literature research, our data science team decided to collect the following important parameters of users: 1. Date-of-birth, 2. BMI (height, weight) and 3. Fitness level. These physiological parameters have a direct impact on an individual’s stress level and are therefore important to profile our users. Regarding the key stress parameters, the collection of the heart rate and the heart rate variability play a significant role. 
 The initial idea for the app was to also include users' evaluation of how stressed they are. Due to insufficient data which was binary and that we at this point were unable to track stress live with the user’s smartwatch we decided to skip this option. Instead of that we decided to focus merely on users that want to reduce their stress levels.
+
+![](Images/tech-stack.png)
 
 Our Data Science team used Python for developing our project. In order to analyze, clean and understand our data set, we used Numpy, MatPlotlib and Pandas libraries in the first place. After Data cleaning and Data Wrangling we started PEDA (Preliminary Exploratory Data Analysis).
 When we completed our statistical analysis, we did our feature selection and got ready for ML model building.
@@ -48,10 +52,14 @@ In order to achieve the best result, we build 4 different classification models:
 - Decision Tree Classifier
 - Gradient Boosting Classifier
 
+![](Images/auc_roc.png)
+
 For each model, we estimated the performance via computing the accuracy, precision-recall, F1 score. We performed the hyperparameter optimization for each algorithm via getting the help of Sklearn's model_selection function  GrindSearchCV()
 After our evaluation, we saw that all models gave very good results. However, the Random Forest model showed the best "overall" performance for our data set. We obtained the most balanced trade-off between training cost and accuracy. For this reason, we made a decision that Random Forest is the optimal model to measure the HRV feature set and predict stress. On account of this, our StressTracker App will be based on the Random forest model. 
 
 As the frontend was build solely using Resct js the WD team had to utilise some HTTP methods using Axios which impliedly parseed any extracted JSON from the backend or third party API. Flask (Python) was used on the backend and a couple of files were in action namely a pickled binary file, a centralised app file and some configuration files required to run a virtual environment. A POST request was utilised to simulate and track the stress data with the given coordinates. The Node js this transition was abit tricky yet a rewarding experience nevertheless.
+
+![](Images/future-design.jpg)
 
 For now we have built a protoptype web app, but our final vision consists of a fully smart watch and mobile app that is synchronizable and get instant notifications when anyone seems to be over stressed (thus a  almost fully automated mobile app)
 

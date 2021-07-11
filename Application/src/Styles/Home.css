@@ -1,0 +1,57 @@
+.home {
+  display: grid;
+  place-items: center;
+  margin-top: 75px;
+}
+
+.home button {
+  position: relative;
+  margin-top: 30px;
+  width: 240px;
+  height: 48px;
+  background: #fd1a1a;
+  border-radius: 20px;
+  border: 0px;
+}
+
+.homeText {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 41px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.333333px;
+}
+
+.homeTextPara {
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 41px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  letter-spacing: -0.333333px;
+  color: black;
+  margin-bottom: 0px;
+  margin-top: -20px;
+}
+
+.home button {
+  color: white;
+  font-size: 21px;
+  /* font-family: sans-serif;
+  width: 400px; */
+}
+
+.homeHeader {
+  font-family: sans-serif;
+}
+
+.link1 {
+  font-family: sans-serif;
+  width: 400px;
+}

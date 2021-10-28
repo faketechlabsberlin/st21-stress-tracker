@@ -26,3 +26,11 @@
   margin-top: -40px;
   /* font-style: normal; */
 }
+
+/* @media screen and (max-width: 600px) {
+  .login button {
+    width: 740px;
+    height: 148px;
+    background-color: aquamarine;
+  }
+} */

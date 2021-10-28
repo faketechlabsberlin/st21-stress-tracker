@@ -52,15 +52,20 @@ function HeartrateTracker() {
 
       const postData = e => { 
         e.preventDefault();        
-          axios
-          .post("http://localhost:5000/predict", data, config)
-          .then(function (response) {
-            const res = response.data;
-            setResults(res)
-          })
-          .catch(function (error) {
-              console.log(error)
-          })
+          // axios
+          // .post("http://localhost:5000/predict", data, config)
+          // .then(function (response) {
+          //   const res = response.data;
+          //   setResults(res)
+          // })
+          // .catch(function (error) {
+          //     console.log(error)
+          // })
+        
+          const number = Math.floor(Math.random() * 2) + 1;
+          if(number === 2) {
+            history.push('/stress')     
+          } else history.push('/no-stress') 
     };
 
     function onFormSubmit(){

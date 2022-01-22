@@ -1,5 +1,8 @@
-# Description
+# Stress Tracker
 
+## About
+
+\
 This repository represents a stress tracking project as part of TechLabs in Berlin (ST 2021). 
 # Project Summary
 https://github.com/TechLabs-Berlin/st21-stress-tracker/blob/main/projectsummary.md

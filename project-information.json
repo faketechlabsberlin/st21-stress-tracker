@@ -10,9 +10,9 @@
     "tools": ["Notion", "Fondora", "Postman"],
     "membersContacts": [
         {
-            "name": "Nickname1",
+            "name": "Alex",
             "nameFull": "FirstName1, SecondName1",
-            "track": "UK",
+            "track": "DS",
             "githubName": "GithubName1",
             "githubUrl": "https://api.github.com/users/TechLabs-Berlin/",
             "linkedinUrl": "https://linkedin",
@@ -20,9 +20,79 @@
             "display": true
         },
         {
-            "name": "[Nickname]",
+            "name": "[Madina]",
             "nameFull": "[FirstName], [SecondName]",
-            "track": "[track]",
+            "track": "[DS]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Marcel]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[DS]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Marcel]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[DS]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Muhammet]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[DS]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Alba]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[UX]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Priyanka]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[UX]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Ikzath]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[WD]",
+            "githubName": "[GithubName]",
+            "githubUrl": "[github_url]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+            },
+        {
+            "name": "[Suwana]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[WD]",
             "githubName": "[GithubName]",
             "githubUrl": "[github_url]",
             "linkedinUrl": "[linkedin_url]",

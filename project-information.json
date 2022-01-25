@@ -10,24 +10,55 @@
     "tools": ["Notion", "Fondora", "Postman"],
     "membersContacts": [
         {
-            "name": "Nickname1",
-            "nameFull": "FirstName1, SecondName1",
-            "track": "UK",
-            "githubName": "GithubName1",
-            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/",
+            "name": "Madinak",
+            "nameFull": "Madina, K",
+            "track": "DS",
+            "githubName": "Madinak",
+            "githubUrl": "https://github.com/madinak",
             "linkedinUrl": "https://linkedin",
             "emailAdress": "Nickname1@provider.com",
             "display": true
         },
         {
-            "name": "[Nickname]",
+            "name": "[Priyanka]",
             "nameFull": "[FirstName], [SecondName]",
-            "track": "[track]",
-            "githubName": "[GithubName]",
-            "githubUrl": "[github_url]",
+            "track": "[UX]",
+            "githubName": "[Pmalgie]",
+            "githubUrl": "[https://github.com/pmalgie]",
             "linkedinUrl": "[linkedin_url]",
             "emailAdress": "[email_adress]",
             "display": true
+            },
+        {
+            "name": "[Suwana]",
+            "nameFull": "[Suwana], [Leewati]",
+            "track": "[WD]",
+            "githubName": "[Leewati]",
+            "githubUrl": "[https://github.com/Leewati]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+            },
+        {
+            "name": "[LMKoesters]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[DS]",
+            "githubName": "[LMKoesters]",
+            "githubUrl": "[https://github.com/LMKoesters]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+            },
+        {
+            "name": "[mcanpolat]",
+            "nameFull": "[FirstName], [SecondName]",
+            "track": "[WD]",
+            "githubName": "[mcanpolat]",
+            "githubUrl": "[https://github.com/mcanpolat]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+           
         }
         ]
 }

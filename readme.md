@@ -1,4 +1,4 @@
-# Description
+# Stress Tracker
 
 This repository represents a stress tracking project as part of TechLabs in Berlin (ST 2021). 
 # Project Summary

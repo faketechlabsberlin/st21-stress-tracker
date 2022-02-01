@@ -1,6 +1,11 @@
 # Stress Tracker
 
 This repository represents a stress tracking project as part of TechLabs in Berlin (ST 2021). 
+
+Nowadays stress plays a big part in daily life, with many people struggling to cope with it. Therefore, with Stress Tracker our goal was to develop a web application where anyone can be on top of their stress levels. As we worked to achieve this goal, we developed an app that tracks your stress level and is able to reduce it instantly with personalized exercises. The web app is used in combination with smartwatch of the user in order to track the heart rate and heart rate variability of the user continuously in connection to the user’s stress levels. The web application was created by the three tracks: Data Science, UX, and Web Development.
+
+Since stress is becoming more prominent in everyday life and can bring dangerous health effects with it in the long-run, our aim was to create an app that could track the current stress level of the individual by using the user’s smartwatch data and give the user personalized stress reducing exercises based on that. Before we could further go into the details and web app features, however, we first had to identify the potential target group.
+
 # Project Summary
 https://github.com/TechLabs-Berlin/st21-stress-tracker/blob/main/projectsummary.md
 

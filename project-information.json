@@ -1,8 +1,8 @@
 {
     "name": "st21-stress-tracker",
     "nameFull": "Stress Tracker",
-    "videoUrl": "project_video_url",
-    "prototypeUrl": "project_protype_url",
+    "videoUrl": null,
+    "prototypeUrl": "https://www.figma.com/file/8L3kBzrKBUXWPbGQP37m2B/Stress-Tracker-Wireframes?node-id=121%3A6",
     "techlabsUrl": "https://techlabs.org/",
     "location": "Berlin",
     "semester": "Winter 2021",
@@ -15,18 +15,18 @@
             "track": "DS",
             "githubName": "Madinak",
             "githubUrl": "https://github.com/madinak",
-            "linkedinUrl": "https://linkedin",
-            "emailAdress": "Nickname1@provider.com",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
         },
         {
             "name": "Priyanka",
-            "nameFull": "FirstName, SecondName",
+            "nameFull": "Priyanka, ",
             "track": "UX",
             "githubName": "Pmalgie",
             "githubUrl": "https://github.com/pmalgie",
-            "linkedinUrl": "linkedin_url",
-            "emailAdress": "email_adress",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
             },
         {
@@ -35,28 +35,28 @@
             "track": "WD",
             "githubName": "Leewati",
             "githubUrl": "https://github.com/Leewati",
-            "linkedinUrl": "linkedin_url",
-            "emailAdress": "email_adress",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
             },
         {
             "name": "LMKoesters",
-            "nameFull": "FirstName, SecondName",
+            "nameFull": null,
             "track": "DS",
             "githubName": "LMKoesters",
             "githubUrl": "https://github.com/LMKoesters",
-            "linkedinUrl": "linkedin_url",
-            "emailAdress": "email_adress",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
             },
         {
             "name": "mcanpolat",
-            "nameFull": "FirstName, SecondName",
+            "nameFull": null,
             "track": "WD",
             "githubName": "mcanpolat",
             "githubUrl": "https://github.com/mcanpolat",
-            "linkedinUrl": "linkedin_url",
-            "emailAdress": "email_adress",
+            "linkedinUrl": null,
+            "emailAdress": "mcanpolattr@gmail.com",
             "display": true
            
         }
